@@ -29,14 +29,14 @@ interests:
 education:
   courses:
     - course: PhD in Economics
-      institution: University of Western Ontario
+      institution: University of Western Ontario (UWO)
       year: Expected 2023
     - course: MA in Economic Theory
-      institution: ITAM
-      year: 2017
+      institution: Instituto Tecnológico Autónomo de México (ITAM)
+      year: 
     - course: BA in Economics
-      institution: ITAM
-      year: 2016
+      institution: Instituto Tecnológico Autónomo de México (ITAM)
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,7 +67,7 @@ email: 'mtorresf@uwo.ca'
 highlight_name: true
 ---
 
-Welcome! I am a PhD Candidate in Economics from the University of Western Ontario.
+Welcome! I am a PhD Candidate in Economics at the University of Western Ontario.
 
 I will be on the 2022/2023 job market.
 
