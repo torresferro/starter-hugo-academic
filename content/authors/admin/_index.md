@@ -10,7 +10,7 @@ last_name: Torres Ferro
 superuser: true
 
 # Role/position/tagline
-role: Pd.D. Candidate in Economics
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,16 +22,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Macroeconomics
-  - Computational Linguistics
-  - Information Retrieval
+  - Heterogeneous agent macroeconomics
+  - Monetary Policy
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Economics
       institution: University of Western Ontario
-      year: 2023
+      year: Expected 2023
     - course: MA in Economic Theory
       institution: ITAM
       year: 2017
@@ -47,18 +46,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/torresferro
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -71,7 +61,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mtorresf@uwo.ca'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
