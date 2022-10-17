@@ -18,12 +18,12 @@ organizations:
     url: https://economics.uwo.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include macroeconomics with heterogeneous agents and monetary policy.
 
 # Interests to show in About widget
 interests:
-  - Macroeconomics with heterogeneous agents
-  - Monetary Policy
+  - Macroeconomics
+  - Monetary Economics
 
 # Education to show in About widget
 education:
@@ -67,7 +67,7 @@ email: 'mtorresf@uwo.ca'
 highlight_name: true
 ---
 
-Welcome! I am a PhD Candidate in Economics at the University of Western Ontario.
+Welcome! I am a PhD Candidate in Economics at the University of Western Ontario. My research focuses on macroeconomics with heterogeneous agents and monetary policy.
 
 I will be on the 2022/2023 job market.
 
