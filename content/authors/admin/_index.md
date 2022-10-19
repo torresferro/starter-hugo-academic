@@ -10,7 +10,7 @@ last_name: Torres Ferro
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: PhD Candidate in Economics.
 
 # Organizations/Affiliations to show in About widget
 organizations:
