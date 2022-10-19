@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: uploads/Job market CV.pdf
+   link: uploads/Job_market_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'mtorresf@uwo.ca'
@@ -71,4 +71,4 @@ Welcome! I am a PhD Candidate in Economics at the University of Western Ontario.
 
 I will be on the 2022/2023 job market.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Job market CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Job_market_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
