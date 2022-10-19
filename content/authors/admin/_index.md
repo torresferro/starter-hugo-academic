@@ -71,4 +71,4 @@ Welcome! I am a PhD Candidate in Economics at the University of Western Ontario.
 
 I will be on the 2022/2023 job market.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Job market CV.pdf" "newtab" >}}CV{{< /staticref >}}.
