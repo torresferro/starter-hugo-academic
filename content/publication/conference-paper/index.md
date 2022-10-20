@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/Job_market_CV.pdf'
+url_pdf: 'uploads/JMP_draft_upload.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,5 +71,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
