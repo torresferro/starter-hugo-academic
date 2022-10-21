@@ -1,5 +1,5 @@
 ---
-title: 'Uncertain Expenses and the Short-Run Transmission of Monetary Policy'
+title: 'Uncertain Expenses and the Short-Run Transmission of Monetary Policy (Job Market Paper)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,13 +22,13 @@ publishDate: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: 
 publication_short: (Job Market Paper)
 
-abstract: abstract.
+abstract: In this paper, I study the importance of uncertain expenses on household's savings. Using data from the Consumer Expenditure Survey (CEX) I document that uncertain expenses represent a significant fraction of total expenses (14.5%), and that they are an important driver of the short-run consumption response to monetary policy shocks. I develop a heterogeneous-agent incomplete markets model with two assets, money and bonds; where households use the two assets to self-insure against income and expenditure uncertainty. A timing friction in the portfolio choice problem, together with frictions in the goods market, lead households to hold extra liquidity relative to their total consumption level. I show that self insurance motives towards expenditure risk entail a novel direct channel for the transmission of monetary policy to consumption, through household's optimal portfolio rebalancing in response to changes in the policy rate. In addition, the model generates concentration in the distribution of money holdings consistent with the data, a feature hard to reconcile with traditional transaction motives for money demand.
 
 # Summary. An optional shortened abstract.
-summary: abstract.
+summary: In this paper, I study the importance of uncertain expenses on household's savings. Using data from the Consumer Expenditure Survey (CEX) I document that uncertain expenses represent a significant fraction of total expenses (14.5%), and that they are an important driver of the short-run consumption response to monetary policy shocks. I develop a heterogeneous-agent incomplete markets model with two assets, money and bonds; where households use the two assets to self-insure against income and expenditure uncertainty. A timing friction in the portfolio choice problem, together with frictions in the goods market, lead households to hold extra liquidity relative to their total consumption level. I show that self insurance motives towards expenditure risk entail a novel direct channel for the transmission of monetary policy to consumption, through household's optimal portfolio rebalancing in response to changes in the policy rate. In addition, the model generates concentration in the distribution of money holdings consistent with the data, a feature hard to reconcile with traditional transaction motives for money demand.
 
 tags: []
 
