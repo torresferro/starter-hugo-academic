@@ -1,5 +1,5 @@
 ---
-title: 'Risk Sharing and Illiquid Assets'
+title: 'Balance Sheet Liquidity, Consumption Smoothing, and the Business Cycle'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ authors:
 
 
 
-date: ''
+date: '2019-06'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
