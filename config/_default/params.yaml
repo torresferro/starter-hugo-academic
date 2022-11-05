@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Torres Ferro'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -105,6 +105,8 @@ extensions:
     branch: main
     local_backend: false
   academicons:
+    enable: true
+  aiicons:
     enable: true
 
 # Security
