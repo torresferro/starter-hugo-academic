@@ -1,9 +1,9 @@
 ---
-title: Teaching (University of Western Ontario)
+title: Teaching (UWO)
 summary: ''
 tags:
 
-date: '2016-04-27T00:00:00Z'
+date: ''
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
