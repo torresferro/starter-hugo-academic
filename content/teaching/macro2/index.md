@@ -24,7 +24,20 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ''
-syllabus: example
+
 ---
 
-Intermediate Macroeconomic Theory and Policy II, Summer 2021
+
+University of Western Ontario (UWO)
+
+ - Intermediate Macroeconomic Theory and Policy II, Summer 2021
+
+
+
+
+
+
+
+
+
+ 
