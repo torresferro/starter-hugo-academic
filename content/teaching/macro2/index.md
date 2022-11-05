@@ -1,5 +1,5 @@
 ---
-title: Teaching (UWO)
+title: Teaching
 summary: ''
 tags:
 
@@ -17,6 +17,7 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+url_syllabus: 'uploads/2153B001COMay21.pdf'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,6 +32,7 @@ slides: ''
 University of Western Ontario (UWO)
 
  - Intermediate Macroeconomic Theory and Policy II, Summer 2021
+
 
 
 
